@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What are the latest trends in web design?	</title>
+	<atom:link href="/what-are-the-latest-trends-in-web-design/feed/" rel="self" type="application/rss+xml" />
+	<link>/what-are-the-latest-trends-in-web-design/</link>
+	<description>Get the Website You Deserve!</description>
+	<lastBuildDate>Mon, 17 Jan 2022 01:20:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>
+		By: pjb		</title>
+		<link>/what-are-the-latest-trends-in-web-design/#comment-4</link>
+
+		<dc:creator><![CDATA[pjb]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2022 01:05:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=253955#comment-4</guid>
+
+					<description><![CDATA[I have another comments I would like to add. Let&#039;s see how it looks!]]></description>
+			<content:encoded><![CDATA[<p>I have another comments I would like to add. Let&#8217;s see how it looks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: pjb		</title>
+		<link>/what-are-the-latest-trends-in-web-design/#comment-3</link>
+
+		<dc:creator><![CDATA[pjb]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2022 01:04:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=253955#comment-3</guid>
+
+					<description><![CDATA[So what are the latest trends in web design? I don&#039;t see where you&#039;ve answered the question?  And why aren&#039;t your font sizes consistent across posts?]]></description>
+			<content:encoded><![CDATA[<p>So what are the latest trends in web design? I don&#8217;t see where you&#8217;ve answered the question?  And why aren&#8217;t your font sizes consistent across posts?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
